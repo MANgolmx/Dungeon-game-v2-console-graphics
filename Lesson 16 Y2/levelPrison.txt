@@ -1,0 +1,24 @@
+13 15
+10 1
+WWWWWWWWWWWWW
+Wc  W   W   W
+W  cD   D c W
+W k W   Wk kW
+WWWWW   WWWWW
+W   W   W c W
+W c D   D   W
+W  cW   W c W
+WWWWW   WWWWW
+W ckW   W  cW
+W  cD   D   W
+W k W   Wkc W
+WWWWWWDWWWWWW
+E   D   D ccW
+WWWWWWWWWWWWW
+6
+1 2 Prisoner
+2 7 Prisoner
+3 11 Prisoner
+4 9 Guard
+2 13 Guard
+7 4 Guard

@@ -1,0 +1,14 @@
+20 10
+1 1
+WWWWWWWWWWWWWWWWWWWW
+W           W      W
+W       k   D    k W
+W           W  c   W
+WWWWWWWWWWWWWWDWWWWW
+W  E    W          W
+W       W  k       W
+W    T  D      $   W
+W       W          W
+WWWWWWWWWWWWWWWWWWWW
+1
+1 7 Goblin

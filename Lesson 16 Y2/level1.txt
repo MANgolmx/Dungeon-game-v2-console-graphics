@@ -1,0 +1,23 @@
+25 16
+1 1
+WWWWWWWWWWWWWWWWWWWWWWWWW
+W     D    k     c  D ckW
+W $ k Wc     c T    W7k W
+WWWWWWWWWWWWWWWWDWWWWWWWW
+Wk E  cWc   c Dc     k  W
+WT   ckW  c  cWWWWW WWDWW
+WWWWDWWWWWWDWWWc  W Wc  W
+W c  c W k    D  cWTW c W
+W    k W  c  cWWWWW W  kW
+W      W      T     D c W
+W k  c W  c     WWWWWWWWW
+Wc     D        Wccc ckcW
+WWWWWWWW      c WWWWDWWWW
+W  cc  W  c     D   Tk  W
+W c   TD      c W c  c  W
+WWWWWWWWWWWWWWWWWWWWWWWWW
+4
+2 4 Goblin
+21 9 Magician
+15 13 Swordsman
+11 13 Rat
